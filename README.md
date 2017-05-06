@@ -8,7 +8,7 @@ With this package, you can see the list of object prefix with its API Name and L
 ## Installation and usage
 You can install this as an unmanaged package from here:
 * [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000qnlX)
-* [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t28000000yBOO)
+* [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t28000000qnlX)
 
 The package contains:
 * Visualforce page
