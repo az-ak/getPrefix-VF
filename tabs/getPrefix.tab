@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>get prefix of all SObjects in the Org.</description>
+    <label>getPrefix</label>
+    <mobileReady>false</mobileReady>
+    <motif>Custom50: Big top</motif>
+    <page>getPrefix</page>
+</CustomTab>

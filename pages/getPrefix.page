@@ -1,0 +1,12 @@
+<apex:page controller="getPrefix" id="thePage">
+	<apex:Slds />
+	<table>
+		<apex:repeat value="{!pfx}" var="key">
+ 			<tr>
+				<td>{!key}</td>
+				<td>{!pfx[key][0]}</td>
+				<td>{!pfx[key][1]}</td>
+			</tr>
+		</apex:repeat>
+	</table>
+</apex:page>
