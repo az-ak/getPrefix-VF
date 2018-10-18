@@ -1,5 +1,4 @@
-<apex:page controller="getPrefix" id="thePage">
-	<apex:Slds />
+<apex:page controller="getPrefix" id="thePage" lightningStylesheets="true">
 	<table>
 		<apex:repeat value="{!pfx}" var="key">
  			<tr>
